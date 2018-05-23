@@ -145,7 +145,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             findViewById(R.id.msw_progress).setVisibility(View.GONE);
         }
-        asw_loading_text = (TextView) findViewById(R.id.msw_loading_text);
+
         Handler handler = new Handler();
 
         //Launching app rating request
