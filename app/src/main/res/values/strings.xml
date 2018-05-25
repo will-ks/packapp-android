@@ -8,9 +8,9 @@
     <string name="rate_dialog_ok">RATE</string>
     <string name="rate_dialog_cancel">LATER</string>
     <string name="rate_dialog_no">DON\'T ASK AGAIN</string>
-    <string name="loc_req">Please allow this app to get your location information.</string>
-    <string name="loc_fail">Failed to Find Location</string>
-    <string name="loc_fail_text">Please Check Your GPS Location.</string>
+    <string name="loc_req">Please allow location information.</string>
+    <string name="loc_fail">Failed to find location</string>
+    <string name="loc_fail_text">Please check your GPS location.</string>
     <string name="loc_fail_more">Please check if your GPS is enabled, if not, please set it on high accuracy from location settings.</string>
     <string name="loc_perm">Allow Permission for Location</string>
     <string name="loc_perm_text">Give this app permission to check your location.</string>
