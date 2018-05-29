@@ -8,7 +8,7 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.nocodeco.webview"
+    package="mgks.os.webview"
     android:installLocation="auto">
 
     <supports-screens
