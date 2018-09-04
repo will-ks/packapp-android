@@ -324,12 +324,6 @@ public class MainActivity extends AppCompatActivity {
             aswm_view("file:///android_res/raw/error.html", false);
         }
 
-        @Override
-        public void onReceivedError(WebView view, WebResourceRequest request, WebResourceError error) {
-            Toast.makeText(getApplicationContext(), "Something Went Wrong!", Toast.LENGTH_SHORT).show();
-            aswm_view("file:///android_res/raw/error.html", false);
-        }
-
         //Overriding webview URLs
 		@SuppressWarnings("deprecation")
         @Override
