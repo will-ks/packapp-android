@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package com.nocodeco.webview;
 
 /*
 * Android Smart WebView is an Open Source Project available on GitHub.

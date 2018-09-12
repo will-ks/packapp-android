@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package com.nocodeco.webview;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -8,13 +8,13 @@ import android.view.View;
 
 import java.util.Date;
 
-import static mgks.os.webview.DialogManager.create;
-import static mgks.os.webview.PreferenceHelper.getInstallDate;
-import static mgks.os.webview.PreferenceHelper.getIsAgreeShowDialog;
-import static mgks.os.webview.PreferenceHelper.getLaunchTimes;
-import static mgks.os.webview.PreferenceHelper.getRemindInterval;
-import static mgks.os.webview.PreferenceHelper.isFirstLaunch;
-import static mgks.os.webview.PreferenceHelper.setInstallDate;
+import static com.nocodeco.webview.DialogManager.create;
+import static com.nocodeco.webview.PreferenceHelper.getInstallDate;
+import static com.nocodeco.webview.PreferenceHelper.getIsAgreeShowDialog;
+import static com.nocodeco.webview.PreferenceHelper.getLaunchTimes;
+import static com.nocodeco.webview.PreferenceHelper.getRemindInterval;
+import static com.nocodeco.webview.PreferenceHelper.isFirstLaunch;
+import static com.nocodeco.webview.PreferenceHelper.setInstallDate;
 
 public final class AppRate {
 

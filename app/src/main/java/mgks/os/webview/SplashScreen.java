@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package com.nocodeco.webview;
 
 import android.app.Activity;
 import android.content.Intent;

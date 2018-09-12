@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package com.nocodeco.webview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

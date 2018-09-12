@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package com.nocodeco.webview;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -16,14 +16,14 @@ import java.lang.ref.Reference;
 import java.lang.ref.WeakReference;
 import java.util.List;
 
-import static mgks.os.webview.IntentHelper.createIntentForAmazonAppstore;
-import static mgks.os.webview.IntentHelper.createIntentForGooglePlay;
-import static mgks.os.webview.PreferenceHelper.setAgreeShowDialog;
-import static mgks.os.webview.PreferenceHelper.setRemindInterval;
-import static mgks.os.webview.UriHelper.getAmazonAppstore;
-import static mgks.os.webview.UriHelper.getGooglePlay;
-import static mgks.os.webview.UriHelper.isPackageExists;
-import static mgks.os.webview.Utils.getDialogBuilder;
+import static com.nocodeco.webview.IntentHelper.createIntentForAmazonAppstore;
+import static com.nocodeco.webview.IntentHelper.createIntentForGooglePlay;
+import static com.nocodeco.webview.PreferenceHelper.setAgreeShowDialog;
+import static com.nocodeco.webview.PreferenceHelper.setRemindInterval;
+import static com.nocodeco.webview.UriHelper.getAmazonAppstore;
+import static com.nocodeco.webview.UriHelper.getGooglePlay;
+import static com.nocodeco.webview.UriHelper.isPackageExists;
+import static com.nocodeco.webview.Utils.getDialogBuilder;
 
 final class DialogManager {
 
